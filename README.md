@@ -30,6 +30,6 @@ Side note: Python has been weird for me. You MIGHT need to replace `python` with
 Once you run the script you should get a confirmation Notification saying the script is running
 ![a notification confirming my script is running](/images/running.png)
 
-To stop this script press `Ctrl+C`
+To stop this script press `Ctrl+C` while focused into your Command Prompt Window
 
 The end :)
