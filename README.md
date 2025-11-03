@@ -28,4 +28,8 @@ Adjust this command for the saved file location
 Side note: Python has been weird for me. You MIGHT need to replace `python` with `python3` for it to work.
 
 Once you run the script you should get a confirmation Notification saying the script is running
-![
+![a notification confirming my script is running](/images/running.png)
+
+To stop this script press `Ctrl+C`
+
+The end :)
