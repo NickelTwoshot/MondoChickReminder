@@ -5,7 +5,7 @@
 
 a VERY basic Python script that will send a push notification 2 minutes before Mondo Chick spawns in Bee Swarm Simulator. 
 
-
+![A screenshot of a Windows 10 Notification using the script that is provided in this Repository.](/images/notif.png) 
 
 
 
