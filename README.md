@@ -19,7 +19,8 @@ With Python 3 Already installed go to a Command Prompt and type the following
 pip install win10toast schedule pylance
 ```
 
-One done, You should be able to run the python file without issues.
+One done, Download and run the script
+You should be able to run the python file without issues.
 Here is an example command to run the file (assuming the file is in Downloads)
 ```
 python C:\Users\YOURUSER\Downloads\reminder.py
